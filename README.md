@@ -29,4 +29,5 @@ I am currently studying Computer Science with a major in âœ¨Interaction Designâœ
   <summary>Languages I'm currently learning:</summary>
   - JavaScript<br/>
   - C#<br/>
+  - C++<br/>
 </details>
